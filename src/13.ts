@@ -1,0 +1,8 @@
+const randomTsCode = () => {
+  const code = `
+    let a = 5;
+    let b = 10;
+    console.log(a + b);
+  `;
+  return code;
+};
